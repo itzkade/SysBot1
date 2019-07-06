@@ -35,7 +35,7 @@ var ti={}
 
 client.on('ready', function(){
     var ms = 60000 ;
-    var setGame = ['ITzWax By','help-','Type -help'];
+    var setGame = ['By Lil Max','help-','Type -help'];
     var i = -1;
     var j = 0;
     setInterval(function (){
